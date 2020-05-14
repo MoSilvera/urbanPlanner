@@ -1,0 +1,12 @@
+/Users/mo/workspace/cshar39p/planner/obj/Debug/netcoreapp3.1/Planner.csprojAssemblyReference.cache
+/Users/mo/workspace/cshar39p/planner/obj/Debug/netcoreapp3.1/Planner.csproj.CoreCompileInputs.cache
+/Users/mo/workspace/cshar39p/planner/obj/Debug/netcoreapp3.1/Planner.AssemblyInfoInputs.cache
+/Users/mo/workspace/cshar39p/planner/obj/Debug/netcoreapp3.1/Planner.AssemblyInfo.cs
+/Users/mo/workspace/cshar39p/planner/bin/Debug/netcoreapp3.1/Planner.deps.json
+/Users/mo/workspace/cshar39p/planner/bin/Debug/netcoreapp3.1/Planner.runtimeconfig.json
+/Users/mo/workspace/cshar39p/planner/bin/Debug/netcoreapp3.1/Planner.runtimeconfig.dev.json
+/Users/mo/workspace/cshar39p/planner/bin/Debug/netcoreapp3.1/Planner.dll
+/Users/mo/workspace/cshar39p/planner/bin/Debug/netcoreapp3.1/Planner.pdb
+/Users/mo/workspace/cshar39p/planner/obj/Debug/netcoreapp3.1/Planner.dll
+/Users/mo/workspace/cshar39p/planner/obj/Debug/netcoreapp3.1/Planner.pdb
+/Users/mo/workspace/cshar39p/planner/obj/Debug/netcoreapp3.1/Planner.genruntimeconfig.cache
